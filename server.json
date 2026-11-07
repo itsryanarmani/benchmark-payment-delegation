@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/benchmark-payment-delegation",
+  "name": "io.github.itsryanarmani/benchmark-payment-delegation",
   "description": "Spend limits, merchant allowlists and disputes for an agent with a card.",
   "version": "0.1.0",
   "repository": { "url": "https://github.com/pooriaarab/benchmark-payment-delegation", "source": "github" },
